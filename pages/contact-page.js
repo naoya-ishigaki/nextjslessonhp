@@ -1,6 +1,6 @@
 import Layout from '../components/Layout'
 import React from 'react'
-import Image from 'next/image';
+import Image from 'next/Image';
 
 const Contact=() => {
   return (

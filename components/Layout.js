@@ -7,7 +7,6 @@ export default function Layout({children,title="HP by nextjs"}){
         <div className="flex justify-center items-center flex-col min-h-screen text-gray-600 text-sm font-mono">
             <Head>
                 <title>{title}</title>
-                
             </Head>
             <header>
                 <nav className="bg-gray-800 w-screen">
